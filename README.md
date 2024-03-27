@@ -14,4 +14,4 @@ npm install @aaronpowell/react-static-web-apps-auth
 
 Or you can install the latest build from GitHub packages.
 
-Learn more from the [README](./react-static-web-apps).
+Learn more from the [README](./react-static-web-apps-auth/README.md).
